@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 1400,
-      "created_at": "2022-07-29T19:36:44585Z"
+      "created_at": "2023-01-01T07:50:00.000Z"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "type": "outcome",
       "category": "Lanches",
       "price": 50,
-      "created_at": "2022-07-29T19:26:44585Z"
+      "created_at": "2023-01-02T07:50:00.000Z"
     }
   ]
 }
