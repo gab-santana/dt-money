@@ -15,6 +15,22 @@
       "category": "Lanches",
       "price": 50,
       "created_at": "2023-01-02T07:50:00.000Z"
+    },
+    {
+      "description": "Desenvolvimento de site",
+      "category": "Venda",
+      "price": 1500,
+      "type": "income",
+      "created_at": "2023-06-18T03:16:21.513Z",
+      "id": 3
+    },
+    {
+      "description": "Pamonha",
+      "category": "Lanches",
+      "price": 10,
+      "type": "outcome",
+      "created_at": "2023-06-18T04:05:19.227Z",
+      "id": 4
     }
   ]
 }
