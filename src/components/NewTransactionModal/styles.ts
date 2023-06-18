@@ -50,8 +50,13 @@ form{
     border-radius: 6px;
     margin-top: 1.5rem;
     cursor: pointer;
+    
+    &:disabled{
+      opacity: 0.6;
+      cursor: not-allowed
+    }
 
-    &:hover{
+    &:not(:disabled):hover{
       background: ${props => props.theme['green-700']};
       transition: background-color 0.2s;
     }
